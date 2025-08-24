@@ -59,7 +59,7 @@ This project allows you to:
 ### 1. Clone this repository
 
 ```bash
-git clone https://github.com/your-username/free-map-solution.git
+git clone https://github.com/malikarslanasif131/free-open-source-map.git
 cd free-map-solution
 ```
 
@@ -128,7 +128,8 @@ You are free to use, modify, and distribute it with attribution.
 
 ## 👨‍💻 Author
 
-**Your Name**  
-🌐 Website: [your-portfolio-link.com](#)  
-🐦 Twitter: [@yourhandle](#)  
-📧 Email: [your@email.com](#)
+**Malik Arslan Asif**  
+📧 Email: [malikarslanasif131@gmail.com](mailto:malikarslanasif131@gmail.com)  
+🔗 LinkedIn: [linkedin.com/in/malikarslanasif131](https://www.linkedin.com/in/malikarslanasif131/)
+
+---
